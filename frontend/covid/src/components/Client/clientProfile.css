@@ -1,0 +1,49 @@
+.head{
+    padding-left: 30px;
+    padding-top: 30px;
+    font-size: 25px;
+    font-weight: lighter;
+}
+.main2{
+    background-color: lightblue;
+    width: 100vw;
+    height: 100vh;
+}
+.logo{
+    padding-top: 10px;
+    width:8%;
+    height:8%;
+    padding-left: 20px;
+}
+.navbarText{
+    font-size:16px;
+    font-weight:'normal';
+    margin-left:50%;
+    margin-right: 20px;
+    position: absolute;
+    right:50px;
+    top:2%
+}
+.form{
+    padding-top: 40px;
+    
+}
+.inputForm[type="text"] {   
+    border-radius: 2px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: auto;
+    text-align: center;
+}
+
+.inputTxt{
+   border:none;
+   height:40px;
+   width:100%;
+   font-size:12px;
+;   text-align: center;
+   border-radius: 3px;
+   margin-bottom: -30px !important;
+   margin-top: -10px;
+}
+
